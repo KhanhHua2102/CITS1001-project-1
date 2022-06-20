@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+# CITS1001 Project 1
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This is my project solution for problems in CITS1001 Project 1 2021. These are not the best solutions neither the answers for them, please use this resources as personal learning only and do not copy or recreate without credit. 
+
+Credit: Quang Khanh Hua (Henry) @khanhhua2102
+
+Attention: Use this with your own risk otherwise you will be responsible for academic misconduct!
